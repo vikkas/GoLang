@@ -2,7 +2,6 @@ package main
 
 import (
 	"server/service"
-
 	"github.com/gin-gonic/gin"
 )
 
